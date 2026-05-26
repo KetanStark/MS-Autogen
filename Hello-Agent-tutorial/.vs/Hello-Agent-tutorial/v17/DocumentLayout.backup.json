@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-Agent-tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77F57F60-7326-4BBA-A0AF-B5A93EE22E71}|Hello-Agent-tutorial\\Hello-Agent-tutorial.csproj|d:\\projects\\pocs\\ms-autogen-projects\\hello-agent-tutorial\\hello-agent-tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F57F60-7326-4BBA-A0AF-B5A93EE22E71}|Hello-Agent-tutorial\\Hello-Agent-tutorial.csproj|solutionrelative:hello-agent-tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F57F60-7326-4BBA-A0AF-B5A93EE22E71}|Hello-Agent-tutorial\\Hello-Agent-tutorial.csproj|d:\\projects\\pocs\\ms-autogen-projects\\hello-agent-tutorial\\hello-agent-tutorial\\helloagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F57F60-7326-4BBA-A0AF-B5A93EE22E71}|Hello-Agent-tutorial\\Hello-Agent-tutorial.csproj|solutionrelative:hello-agent-tutorial\\helloagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloAgent.cs",
+              "DocumentMoniker": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-Agent-tutorial\\Hello-Agent-tutorial\\HelloAgent.cs",
+              "RelativeDocumentMoniker": "Hello-Agent-tutorial\\HelloAgent.cs",
+              "ToolTip": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-Agent-tutorial\\Hello-Agent-tutorial\\HelloAgent.cs",
+              "RelativeToolTip": "Hello-Agent-tutorial\\HelloAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T08:22:24.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-Agent-tutorial\\Hello-Agent-tutorial\\Program.cs",
+              "RelativeDocumentMoniker": "Hello-Agent-tutorial\\Program.cs",
+              "ToolTip": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-Agent-tutorial\\Hello-Agent-tutorial\\Program.cs",
+              "RelativeToolTip": "Hello-Agent-tutorial\\Program.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAwHwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T08:21:28.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
