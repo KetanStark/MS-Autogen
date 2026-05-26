@@ -7,7 +7,7 @@ using System.Speech.Recognition;
 using System.Speech.Synthesis;
 
 //Open-router key
-var apiKey = "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";
+var apiKey = "Your-Open-API-Router-KEY";
 
 if (string.IsNullOrEmpty(apiKey))
 {
