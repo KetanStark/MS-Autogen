@@ -7,7 +7,7 @@ using System.Speech.Recognition;
 using System.Speech.Synthesis;
 
 //Open-router key
-var apiKey = "Your-Open-API-Router-KEY";
+var apiKey = "Your-OpenRouter-API-KEY";
 
 if (string.IsNullOrEmpty(apiKey))
 {
