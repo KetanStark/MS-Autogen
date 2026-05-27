@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB691E94-C0FD-059E-A6B2-C2AF13B7397B}|OpenRouterWebChat.csproj|d:\\projects\\pocs\\ms-autogen-projects\\hello-agent-web\\openrouterwebchat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB691E94-C0FD-059E-A6B2-C2AF13B7397B}|OpenRouterWebChat.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB691E94-C0FD-059E-A6B2-C2AF13B7397B}|OpenRouterWebChat.csproj|d:\\projects\\pocs\\ms-autogen-projects\\hello-agent-web\\openrouterwebchat\\services\\openrouterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB691E94-C0FD-059E-A6B2-C2AF13B7397B}|OpenRouterWebChat.csproj|solutionrelative:services\\openrouterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB691E94-C0FD-059E-A6B2-C2AF13B7397B}|OpenRouterWebChat.csproj|d:\\projects\\pocs\\ms-autogen-projects\\hello-agent-web\\openrouterwebchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB691E94-C0FD-059E-A6B2-C2AF13B7397B}|OpenRouterWebChat.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB691E94-C0FD-059E-A6B2-C2AF13B7397B}|OpenRouterWebChat.csproj|d:\\projects\\pocs\\ms-autogen-projects\\hello-agent-web\\openrouterwebchat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB691E94-C0FD-059E-A6B2-C2AF13B7397B}|OpenRouterWebChat.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB691E94-C0FD-059E-A6B2-C2AF13B7397B}|OpenRouterWebChat.csproj|d:\\projects\\pocs\\ms-autogen-projects\\hello-agent-web\\openrouterwebchat\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB691E94-C0FD-059E-A6B2-C2AF13B7397B}|OpenRouterWebChat.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB691E94-C0FD-059E-A6B2-C2AF13B7397B}|OpenRouterWebChat.csproj|d:\\projects\\pocs\\ms-autogen-projects\\hello-agent-web\\openrouterwebchat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB691E94-C0FD-059E-A6B2-C2AF13B7397B}|OpenRouterWebChat.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB691E94-C0FD-059E-A6B2-C2AF13B7397B}|OpenRouterWebChat.csproj|d:\\projects\\pocs\\ms-autogen-projects\\hello-agent-web\\openrouterwebchat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB691E94-C0FD-059E-A6B2-C2AF13B7397B}|OpenRouterWebChat.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB691E94-C0FD-059E-A6B2-C2AF13B7397B}|OpenRouterWebChat.csproj|d:\\projects\\pocs\\ms-autogen-projects\\hello-agent-web\\openrouterwebchat\\models\\chatresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB691E94-C0FD-059E-A6B2-C2AF13B7397B}|OpenRouterWebChat.csproj|solutionrelative:models\\chatresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB691E94-C0FD-059E-A6B2-C2AF13B7397B}|OpenRouterWebChat.csproj|d:\\projects\\pocs\\ms-autogen-projects\\hello-agent-web\\openrouterwebchat\\models\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB691E94-C0FD-059E-A6B2-C2AF13B7397B}|OpenRouterWebChat.csproj|solutionrelative:models\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T12:52:39.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-25T12:46:11.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACsBAAAAAAAAAAAIwHcBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T12:44:31.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:44:05.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:43:44.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenRouterService.cs",
+              "DocumentMoniker": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\Services\\OpenRouterService.cs",
+              "RelativeDocumentMoniker": "Services\\OpenRouterService.cs",
+              "ToolTip": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\Services\\OpenRouterService.cs",
+              "RelativeToolTip": "Services\\OpenRouterService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:43:11.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAhwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T06:27:22.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\Models\\ChatResponse.cs",
+              "RelativeDocumentMoniker": "Models\\ChatResponse.cs",
+              "ToolTip": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\Models\\ChatResponse.cs",
+              "RelativeToolTip": "Models\\ChatResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:42:37.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\Models\\ChatRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ChatRequest.cs",
+              "ToolTip": "D:\\Projects\\POCS\\MS-Autogen-projects\\Hello-agent-web\\OpenRouterWebChat\\Models\\ChatRequest.cs",
+              "RelativeToolTip": "Models\\ChatRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:42:09.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
