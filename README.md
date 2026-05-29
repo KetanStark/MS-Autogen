@@ -2,13 +2,13 @@
 - Simple Autogen tutorial for incremental of the number using autogen library.
 
 # **Hello-Agent-tutorial**
-- Auto gen chat agen integration.
+- Autogen chat agent integration.
 - To setup working environment you must need to create an API key using [this Links](https://openrouter.ai/workspaces/default/keys).
 - After that need to update this key to program.cs file.
 - Run console application and you will be able to run the chat agent.
 
 # **Hello-Agent-web**
-- Auto gen chat agen integration.
+- Autogen chat agent integration.
 - To setup working environment you must need to create an API key using [this Links](https://openrouter.ai/workspaces/default/keys).
 - After that need to update this key to program.cs file.
 - Run console application and you will be able to run the chat agent.
@@ -16,14 +16,19 @@
 
 
 # **Autogen-coding-agent**
+- Autogen deepseek model integration for coding suggestion.
+- Need to select the file for which need the suggestion on the code and then based on api call and provided prompt it will modify the code.
+- It will used for code cleanup, code review for the coding help for existing files.
+- Need to add the intruction/prompt on area of input and then click on "Run AI" to get the response.
 
 ## Technology stack
 |TECHNOLOGY | STACK|
 |-------|-----------|
 |Layer	| Technology|
+|-------|-----------|
 |Frontend	|React|
 |Editor	|Monaco Editor|
-|Backend	|ASP.NET Core 8|
+|Backend	|ASP.NET Core|
 |AI	|AutoGen|
 |LLM	|OpenRouter|
 |Realtime	|SignalR|
