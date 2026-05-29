@@ -23,7 +23,7 @@
 ## Technology stack
 |TECHNOLOGY | STACK|
 |-------|-----------|
-|Layer	| Technology|
+|**Layer**	| **Technology**|
 |Frontend	|React|
 |Editor	|Monaco Editor|
 |Backend	|ASP.NET Core|
