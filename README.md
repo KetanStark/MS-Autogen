@@ -14,7 +14,6 @@
 - Run console application and you will be able to run the chat agent.
 - Added voice synthesizer for the voice based searching (Gujarati, Hindi and English languages).
 
-
 # **Autogen-coding-agent**
 - Autogen deepseek model integration for coding suggestion.
 - Need to select the file for which need the suggestion on the code and then based on api call and provided prompt it will modify the code.
@@ -34,3 +33,4 @@
 |Realtime	|SignalR|
 |Diff Viewer	|react-diff-viewer|
 |File Explorer	|react-folder-tree|
+
