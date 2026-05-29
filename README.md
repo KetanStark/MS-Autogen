@@ -24,13 +24,11 @@
 |TECHNOLOGY | STACK|
 |-------|-----------|
 |Layer	| Technology|
-|-------|-----------|
 |Frontend	|React|
 |Editor	|Monaco Editor|
 |Backend	|ASP.NET Core|
 |AI	|AutoGen|
 |LLM	|OpenRouter|
-|Realtime	|SignalR|
 |Diff Viewer	|react-diff-viewer|
 |File Explorer	|react-folder-tree|
 
